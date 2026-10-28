@@ -1,0 +1,14 @@
+[
+  {"url": "https://yandex.ru", "name": "Yandex"},
+  {"url": "https://vk.com", "name": "VK"},
+  {"url": "https://mail.ru", "name": "Mail.ru"},
+  {"url": "https://ozon.ru", "name": "Ozon"},
+  {"url": "https://wildberries.ru", "name": "Wildberries"},
+  {"url": "https://sberbank.ru", "name": "Sberbank"},
+  {"url": "https://vtb.ru", "name": "VTB"},
+  {"url": "https://alfabank.ru", "name": "Alfa-Bank"},
+  {"url": "https://mos.ru", "name": "Mos.ru"},
+  {"url": "https://gosuslugi.ru", "name": "Gosuslugi"},
+  {"url": "https://avito.ru", "name": "Avito"},
+  {"url": "https://kinopoisk.ru", "name": "Kinopoisk"}
+]

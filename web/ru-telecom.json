@@ -1,0 +1,9 @@
+[
+  {"url": "https://rt.ru", "name": "Rostelecom"},
+  {"url": "https://mts.ru", "name": "MTS"},
+  {"url": "https://beeline.ru", "name": "Beeline"},
+  {"url": "https://megafon.ru", "name": "MegaFon"},
+  {"url": "https://dom.ru", "name": "Dom.ru (ER-Telecom)"},
+  {"url": "https://t2.ru", "name": "T2 (Tele2)"},
+  {"url": "https://yota.ru", "name": "Yota"}
+]

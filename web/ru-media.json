@@ -1,0 +1,16 @@
+[
+  {"url": "https://rbc.ru", "name": "RBC"},
+  {"url": "https://ria.ru", "name": "RIA Novosti"},
+  {"url": "https://lenta.ru", "name": "Lenta.ru"},
+  {"url": "https://iz.ru", "name": "Izvestia"},
+  {"url": "https://kommersant.ru", "name": "Kommersant"},
+  {"url": "https://vedomosti.ru", "name": "Vedomosti"},
+  {"url": "https://rg.ru", "name": "Rossiyskaya Gazeta"},
+  {"url": "https://kp.ru", "name": "Komsomolskaya Pravda"},
+  {"url": "https://mk.ru", "name": "Moskovsky Komsomolets"},
+  {"url": "https://life.ru", "name": "Life.ru"},
+  {"url": "https://tass.ru", "name": "TASS"},
+  {"url": "https://news.ru", "name": "News.ru"},
+  {"url": "https://aif.ru", "name": "AiF"},
+  {"url": "https://360.ru", "name": "360.ru"}
+]
